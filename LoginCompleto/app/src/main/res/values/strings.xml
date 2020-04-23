@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginCompleto</string>
+    <string name="Float_email">E-mail</string>
+    <string name="Float_senha">Senha</string>
+</resources>
