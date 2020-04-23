@@ -1,0 +1,1 @@
+Folder with some different projects. All Android Studio projects were developed in Java only.
